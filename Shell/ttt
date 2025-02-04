@@ -1,0 +1,5 @@
+0.5 6.5 7 0 0 LT Perceived Shaking   | Not felt | Weak | Light |  Moderate  | Strong |  Very strong  |     Severe     |   Violent |   Extreme    | 
+0.5 6.0 7 0 0 LT Potential damage     |  none    | none |  none | Very light   |  Light  |   Moderate    | Mod./Heavy |   Heavy  | Very Heavy | 
+0.6 5.5 7 0 0 LT   Peak ACC (%g)      |   <0.02   |  0.2  |   0.8   |      2.0        |    4.8   |        12          |         29         |      70      |    >171  | 
+0.6 5.0 7 0 0 LT   Peak VEL (cm/s)    |   <0.02   |  0.08  |   0.3  |      0.9        |    2.4   |        6.4        |         17         |      45      |    >120  | 
+0.6 4.5 7 0 0 LT              IMCS                      |       I       |  II-III  |    IV    |     V        |      VI     |       VII         |      VIII        |      IX      |      X+    | 
